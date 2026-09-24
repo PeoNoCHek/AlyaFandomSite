@@ -1,5 +1,4 @@
 # AlyaFandomSite
-it's a fun project for education
 
 Cостав команды (номер 2 в таблице успеваемости):
   1. Васюк Алексей
