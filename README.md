@@ -19,4 +19,6 @@ Use case:
 Технологический стек:
   Frontend: html, css, javascript
   Инструменты: github
+
+2. https://docs.google.com/document/d/1JJ_YQ_tUDw4pe6-XbEr0F1suByyC_FtSQzvtCz3kTQA/edit?usp=sharing
   
