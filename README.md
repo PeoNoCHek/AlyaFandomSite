@@ -20,5 +20,8 @@ USE CASE диаграмма в файле png;
   Инструменты: github
 
 ТЕХНИЧЕСКИЙ АУДИТ:
-2. https://docs.google.com/document/d/1JJ_YQ_tUDw4pe6-XbEr0F1suByyC_FtSQzvtCz3kTQA/edit?usp=sharing
+https://docs.google.com/document/d/1JJ_YQ_tUDw4pe6-XbEr0F1suByyC_FtSQzvtCz3kTQA/edit?usp=sharing
+
+АНАЛИЗ ФУНКЦИОНАЛЬНЫХ ВОЗМОЖНОСТЕЙ РЕСУРСА:
+https://docs.google.com/document/d/12yWqUEglCgVcd2IZ0lNxFYibZGUBc_Mlqdpf_ixMp2s/edit?usp=sharing
   
