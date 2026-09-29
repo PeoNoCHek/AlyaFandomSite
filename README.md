@@ -7,9 +7,7 @@
   4. Храмков Данила
 
 ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ К ПРОЕКТУ:
-[-WORK IS SUCCESS-](https://peonochek.github.io/AlyaFandomSite/) 
-(Владислав обещал накляпать за ночь, мы с Алексеем свидетели. Винить Владислава)
-
+https://peonochek.github.io/AlyaFandomSite/
 
 USE CASE диаграмма в файле png;
 
